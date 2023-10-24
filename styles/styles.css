@@ -1,0 +1,67 @@
+
+@media (min-width: 780px) {
+    .job-details {
+        display: flex;
+        justify-content: space-between;
+        margin: 0 20px;
+        font-style: italic;
+    }
+    
+    .skills {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 40px;
+      
+    }  
+    
+            
+    
+}
+
+
+body {
+background-color: beige;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+.job-name {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+
+.university {
+    margin-top: 0px;
+    margin-left: 30px;
+}
+
+#languages {
+   margin-right: 20px; 
+}
+
+.sections {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+}
+
+.sections span { 
+    background: beige; 
+    padding:0 10px; 
+}
+
+/*.container {
+    flex-basis: 25%;
+ }*/  
+
+ .banner {
+    background-image: url(../Images/banner-background.jpg);
+    color: white;
+    padding: 30px 0 70px 0;
+    
+
+    
+ }
