@@ -65,3 +65,13 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
     
  }
+
+ #skillsdots ul {
+    list-style-type: none;
+  }
+
+  .separators {background-color: #F3F3E8;
+
+  }
+
+  
